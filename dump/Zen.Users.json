@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "6614397247f692b1022e786e"
+  },
+  "following": [
+    "66184174f5f8d777060f5972",
+    "66158454778fc72752e32d9e",
+    "661442073159be7c5c6151ba",
+    "66184058651f13b58a18eef1",
+    "661842883b2f5de45a8f5483"
+  ],
+  "followers": [
+    "66158454778fc72752e32d9e",
+    "66184174f5f8d777060f5972",
+    "661842883b2f5de45a8f5483",
+    "66184058651f13b58a18eef1"
+  ],
+  "groups": [],
+  "hobbies": [],
+  "personalDetails": {
+    "username": "florinhasna",
+    "firstName": "Florin",
+    "lastName": "Hasna",
+    "middleName": "Gheorghe",
+    "email": "gt543@outlook.co.uk",
+    "dob": "1995-02-22",
+    "city": "Harrow",
+    "country": "England",
+    "password": "Password1!",
+    "profilePicture": "assets/uploads/profile/4a83e424-8d4a-405c-ae12-5c560268d695.jpg"
+  },
+  "biography": "My name is Florin and this is my website!",
+  "posts": [
+    "66184fe05d417e574458b1c7",
+    "6618510e976301cd592ffed7",
+    "66186870c057de8859859f01",
+    {
+      "$oid": "66186f7288ecc96345911527"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661442073159be7c5c6151ba"
+  },
+  "following": [],
+  "followers": [
+    "66158454778fc72752e32d9e",
+    "66184174f5f8d777060f5972",
+    "6614397247f692b1022e786e",
+    "661842883b2f5de45a8f5483"
+  ],
+  "groups": [],
+  "hobbies": [],
+  "personalDetails": {
+    "username": "jonathansmith",
+    "firstName": "John",
+    "lastName": "Smith",
+    "middleName": "",
+    "email": "johnsmith3@gmail.com",
+    "dob": "2005-02-09",
+    "city": "Harrow",
+    "country": "England",
+    "password": "Password1!",
+    "profilePicture": "assets/uploads/profile/default.png"
+  },
+  "biography": "Hi! I'm new to Zen.",
+  "posts": []
+},
+{
+  "_id": {
+    "$oid": "66158454778fc72752e32d9e"
+  },
+  "following": [
+    "6614397247f692b1022e786e",
+    "66184174f5f8d777060f5972",
+    "661442073159be7c5c6151ba",
+    "66184058651f13b58a18eef1",
+    "661842883b2f5de45a8f5483"
+  ],
+  "followers": [
+    "6614397247f692b1022e786e",
+    "66184174f5f8d777060f5972",
+    "661842883b2f5de45a8f5483",
+    "66184058651f13b58a18eef1"
+  ],
+  "groups": [],
+  "hobbies": [],
+  "posts": [
+    "661870b588ecc96345911528"
+  ],
+  "personalDetails": {
+    "username": "scott",
+    "firstName": "Scott",
+    "lastName": "Doherty",
+    "middleName": "",
+    "email": "scott@cineworld.co.uk",
+    "dob": "2000-02-26",
+    "city": "Wembley",
+    "country": "UK",
+    "password": "Windows1",
+    "profilePicture": "assets/uploads/profile/screenshot_2022-12-01_at_10_abfd53db.jpg"
+  },
+  "biography": "I like Avatar!"
+},
+{
+  "_id": {
+    "$oid": "66184058651f13b58a18eef1"
+  },
+  "following": [
+    "66184174f5f8d777060f5972",
+    "661842883b2f5de45a8f5483",
+    "66158454778fc72752e32d9e",
+    "6614397247f692b1022e786e"
+  ],
+  "followers": [
+    "6614397247f692b1022e786e",
+    "66158454778fc72752e32d9e"
+  ],
+  "posts": [
+    {
+      "$oid": "6618770b6165044b06febb82"
+    }
+  ],
+  "personalDetails": {
+    "username": "florinhasna1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "middleName": "Samuel",
+    "email": "gh4@live.mdx.ac.uk",
+    "dob": "2009-12-15",
+    "city": "Birmingham",
+    "country": "England",
+    "password": "Password1!",
+    "profilePicture": "assets/uploads/profile/default.png"
+  },
+  "biography": "Hi! I'm new to Zen."
+},
+{
+  "_id": {
+    "$oid": "66184174f5f8d777060f5972"
+  },
+  "following": [
+    "6614397247f692b1022e786e",
+    "661442073159be7c5c6151ba",
+    "66158454778fc72752e32d9e",
+    "661842883b2f5de45a8f5483"
+  ],
+  "followers": [
+    "6614397247f692b1022e786e",
+    "66158454778fc72752e32d9e",
+    "66184058651f13b58a18eef1"
+  ],
+  "posts": [
+    "66185782ec22214522800135",
+    {
+      "$oid": "661876676165044b06febb80"
+    }
+  ],
+  "personalDetails": {
+    "username": "samueltarly",
+    "firstName": "Samuel",
+    "lastName": "Tarly",
+    "middleName": "",
+    "email": "sam.tarly@outlook.com",
+    "dob": "1987-11-06",
+    "city": "Bath",
+    "country": "England",
+    "password": "Password1!",
+    "profilePicture": "assets/uploads/profile/20211026_153254.jpg"
+  },
+  "biography": "Let me know if you are around..."
+},
+{
+  "_id": {
+    "$oid": "661842883b2f5de45a8f5483"
+  },
+  "following": [
+    "6614397247f692b1022e786e",
+    "661442073159be7c5c6151ba",
+    "66158454778fc72752e32d9e"
+  ],
+  "followers": [
+    "66184174f5f8d777060f5972",
+    "66158454778fc72752e32d9e",
+    "66184058651f13b58a18eef1",
+    "6614397247f692b1022e786e"
+  ],
+  "posts": [
+    "661876db6165044b06febb81",
+    {
+      "$oid": "661877606165044b06febb86"
+    }
+  ],
+  "personalDetails": {
+    "username": "tinaturner12",
+    "firstName": "Tina",
+    "lastName": "Turner",
+    "middleName": "",
+    "email": "tina.turner@tine.com",
+    "dob": "1977-02-17",
+    "city": "London",
+    "country": "UK",
+    "password": "Password1!",
+    "profilePicture": "assets/uploads/profile/images.jpg"
+  },
+  "biography": "Hi! I'm new to Zen."
+}]
